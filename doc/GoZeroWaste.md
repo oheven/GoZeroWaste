@@ -31,8 +31,10 @@ Bring your own bag， cup， steel straw and tableware set
 
 - 观看环保纪录片
 A documentary on sustainability
+  <img src="../resource/img/blueplanet.jpeg" width="60%" />
 - 变废为宝, 垃圾都是被放错的资源
 Trash to treasure
+  <img src="../resource/img/2-3.jpg" width="60%" />
 - 关注环保相关微信公众号推荐GoZeroWaste，下载21天零垃圾手册，手把手教你如何过上零垃圾的环保生活。
 Keep up with the wechat account GoZeroWaste, download Days to Zero Waste help you transform to sustainable living.
 

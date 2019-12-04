@@ -1,6 +1,6 @@
 # Summary
 
-*[前言] [Introduction](README.md)
-  - [关于本书] (README.md)
-*[正文] [content](doc/环保-海洋.md)
-  - [环保](doc/环保-海洋.md)
+* [关于本书](README.md)
+* [正文](doc/GoZeroWaste.md)
+  * [海洋污染现状](doc/GoZeroWaste.md)
+  * [我们能做什么减少垃圾](doc/GoZeroWaste.md)

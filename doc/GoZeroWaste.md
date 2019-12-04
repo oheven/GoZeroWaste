@@ -22,21 +22,20 @@ The likelihood of coral becoming diseased increases from 4% to 89% after coming 
 ### 想要了解更多塑料污染的危害和影响，学习减少塑料消费的技巧，请立即下载我们的Plastic Pollution Primer and Toolkit。
 
 # 我们能做什么减少垃圾
-- 观察每天产生的垃圾，写一篇垃圾日记
-Keep a trash diary
-- 自带餐具、水杯、食品包装袋子、吸管
-Bring your own bag， cup， steel straw and tableware set 
+- 观察每天产生的垃圾，写一篇垃圾日记<br> 
+Keep a trash diary<br> 
+- 自带餐具、水杯、食品包装袋子、吸管<br> 
+Bring your own bag， cup， steel straw and tableware set<br> 
+<img src="../resource/img/img1.png" width="60%" text-align="center" />
 
-  <img src="../resource/img/img1.png" width="60%" text-align="center" />
-
-- 观看环保纪录片
-A documentary on sustainability
+- 观看环保纪录片<br> 
+A documentary on sustainability<br> 
   <img src="../resource/img/blueplanet.jpeg" width="60%" />
-- 变废为宝, 垃圾都是被放错的资源
-Trash to treasure
+- 变废为宝, 垃圾都是被放错的资源<br> 
+Trash to treasure<br> 
   <img src="../resource/img/2-3.jpg" width="60%" />
-- 关注环保相关微信公众号推荐GoZeroWaste，下载21天零垃圾手册，手把手教你如何过上零垃圾的环保生活。
-Keep up with the wechat account GoZeroWaste, download Days to Zero Waste help you transform to sustainable living.
+- 关注环保相关微信公众号推荐GoZeroWaste，下载21天零垃圾手册，手把手教你如何过上零垃圾的环保生活。<br> 
+Keep up with the wechat account GoZeroWaste, download Days to Zero Waste help you transform to sustainable living.<br> 
 
   <img src="../resource/img/img.jpg" width="40%" />
   <img src="../resource/img/img5.jpg" width="40%" />
